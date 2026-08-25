@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="paddock" width="360">
+  <img src="logo.png" alt="paddock" width="360">
 </p>
 
 <p align="center">
